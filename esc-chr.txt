@@ -1,0 +1,4 @@
+escape characters
+
+'	&#39;
+"	&#34;
